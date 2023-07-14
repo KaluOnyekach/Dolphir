@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: whitesmoke;
+}
+.about{
+    font-size: xx-large;
+    height: 100vh;
+}
+.g{
+    border: 1px solid rgb(36, 36, 53);
+    /* position: absolute; */
+    text-align: center;
+    margin-top: 2%;
+
+    
+}
+.about p{
+    margin-top: 100px;
+    
+}
+.pic{
+    width: 40px;
+}
